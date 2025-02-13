@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ЦК_TypeScript_3", "ЦК_TypeScript_3.njsproj", "{EECCB84C-DF13-4030-945D-B39C2D890766}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EECCB84C-DF13-4030-945D-B39C2D890766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECCB84C-DF13-4030-945D-B39C2D890766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECCB84C-DF13-4030-945D-B39C2D890766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECCB84C-DF13-4030-945D-B39C2D890766}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6D34583-E0FE-4C35-BF85-8B1A581B9726}
+	EndGlobalSection
+EndGlobal
